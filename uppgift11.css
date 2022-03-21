@@ -1,0 +1,26 @@
+body{
+    background-color: lightyellow;
+
+}
+h1{
+    background-color: aqua;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+h3,h2{
+    border-bottom-style: groove;
+    border-bottom-color: aqua;
+    border-bottom-width: medium;
+}
+
+a{
+    border-style: dashed;
+    border-color: aqua;
+    border-width: thin;
+}
+
+.typ2{
+    background-color: aquamarine;
+    font-family: Helvetica, arial, sans-serif;
+    
+}
